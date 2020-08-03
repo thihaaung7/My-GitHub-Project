@@ -1,0 +1,9 @@
+.fullscreen {
+  width: 100%;
+  height: 100vh;
+  padding: 40vh;
+}
+
+.a {
+  background: url('path/to/image.jpg') center/cover;
+}
